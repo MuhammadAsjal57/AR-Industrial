@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190860215965",
+    "project_id": "ittar-a19ea",
+    "storage_bucket": "ittar-a19ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190860215965:android:82d785f618c7ff5ed1b674",
+        "android_client_info": {
+          "package_name": "com.example.ar_industrial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiudITKzVGR0ARliWZSqTEZYI1B52vd5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
